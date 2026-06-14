@@ -30,6 +30,13 @@ Through this project, I learned how Azure Repos, Azure Boards, and Azure Pipelin
 
 Challenges Encountered
 One of the main challenges I faced was creating and accessing the Azure DevOps organization because of account verification and navigation issues. I also spent time understanding how to configure repositories and run pipelines successfully. These challenges helped me gain a better understanding of Azure DevOps.
+Challenges Encountered
+
+During this project, I initially experienced challenges creating an Azure DevOps organization due to address verification requirements. After resolving the issue using my Azure subscription, I successfully created the organization, project, repository, boards, and pipeline.
+
+Screenshots
+
+Screenshots of Azure Boards, Azure Repos, and successful Azure Pipeline execution are included in the screenshots folder.
 
 Conclusion
-This project helped me gain hands-on experience with Azure DevOps services. I successfully created an organization, configured a repository, created work items, and ran a pipeline. Overall, the project improved my understanding of DevOps practices and how Azure DevOps supports software development and delivery.
+This project helped me gain hands on experience with Azure DevOps services. I successfully created an organization, configured a repository, created work items, and ran a pipeline. Overall, the project improved my understanding of DevOps practices and how Azure DevOps supports software development and delivery.
